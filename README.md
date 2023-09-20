@@ -4,6 +4,14 @@
 
 This report provides a streamlined guide to performing object detection with YOLOv7 using the Roboflow platform and PyTorch. It outlines the essential steps for setting up the environment, training the model, running inference, and visualizing detection results.
 
+## Dataset
+
+1. Dataset link: [Link](https://universe.roboflow.com/musa-almaz-p7onb/suas-shape-detection) 
+
+2. Dataset contains 13 classes: circle, cross, heptagon, hexagon, octagon, pentagon, quartercircle, rectangle, semicircle, square, star, trapezoid, triangle
+
+3. Total annotated images are 2000 (1700 train, 200 validation, 100 testing)
+
 ## Setup
 
 1. **Clone Repository**: Clone the YOLOv7 repository and navigate to the project directory.
@@ -32,8 +40,6 @@ This report provides a streamlined guide to performing object detection with YOL
 
 ## Results Visualization
 
-11. **Display Detection Results**: Visualize detection results in the notebook.
-
-### Dataset link: [Link](https://universe.roboflow.com/musa-almaz-p7onb/suas-shape-detection)    
+11. **Display Detection Results**: Visualize detection results in the notebook.   
 
 This report provides an overview of the steps required for YOLOv7 object detection with Roboflow and PyTorch. For detailed instructions and code snippets, refer to the sections above
