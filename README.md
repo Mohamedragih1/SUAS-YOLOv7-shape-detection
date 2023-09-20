@@ -48,6 +48,10 @@ This report provides a streamlined guide to performing object detection with YOL
 
 ## Results Visualization
 
-114. **Display Detection Results**: Visualize detection results in the notebook.   
+14. **Display Detection Results**: Visualize detection results in the notebook.
+
+![image](https://github.com/Mohamedragih1/SUAS-YOLOv7-shape-detection/assets/93843532/56fb9dad-28b1-475e-aede-51856e559bb3)
+
+![image](https://github.com/Mohamedragih1/SUAS-YOLOv7-shape-detection/assets/93843532/6cb3f094-420c-4bbe-9da4-98a5bde1a397)
 
 This report provides an overview of the steps required for YOLOv7 object detection with Roboflow and PyTorch. For detailed instructions and code snippets, refer to the sections above
